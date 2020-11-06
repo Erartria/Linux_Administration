@@ -41,5 +41,5 @@ chmod 6555 /home/test14/nano
 #17
 mkdir /home/test15
 echo "Secret file" > /home/test15/secret_file
-chmod 444 /home/test15 -R
-chmod 111 /home/test15/secret_file
+chmod 111 /home/test15 
+chmod 444 /home/test15/secret_file
